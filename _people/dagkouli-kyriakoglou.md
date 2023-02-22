@@ -1,12 +1,12 @@
 ---
 layout: person
-first_name: 
-last_name: 
+first_name: Myrto
+last_name: Dagkouli-Kyriakoglou
 key: dagkouli-kyriakoglou
 permalink: /team/dagkouli-kyriakoglou/
 # Pick one of the following
-role: postdoc
-email: 
+role: postdoc researcher
+email: myrto.dagkouli-kyriakoglou@liu.se
 organization: Linköping University
 # leave empty if you don't have apersonal website
 personal-site: 
@@ -14,14 +14,14 @@ personal-site:
 graduated:
 
 
-gs: https://scholar.google.com/citations?user=t9HoMqYAAAAJ&hl=en
+gs: https://scholar.google.com/citations?user=5InmKNUAAAAJ&hl=el
 address: |
     Linköpings Universitet <br>
     Kopparhammaren 2, MIT/ITN  <br>
     601 74 Norrköping, Sweden  <br>
-orchid: 
+orchid: 0000-0002-0794-8019 
 twitter: 
 
 # Write a little something about yourself!
-blurb:
+blurb: Myrto is a interdepartamental post-doc researcher between Gender Studies (Tema G) and MIT at Linköping University, Sweden. She is human geographer with a background in urban and housing studies. Her current research in the field of STS and data visualization regards the exploration of astrovisualizations through the lens of critical cartography and geography.
 ---
