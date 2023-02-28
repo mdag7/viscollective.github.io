@@ -1,12 +1,12 @@
 ---
 layout: person
-first_name: 
-last_name: 
+first_name: Myrto   
+last_name: Dagkouli-Kyriakoglou
 key: dagkouli-kyriakoglou
 permalink: /team/dagkouli-kyriakoglou/
 # Pick one of the following
-role: postdoc
-email: 
+role: Postdoc researcher
+email: myrto.dagkouli-kyriakoglou@liu.se
 organization: Linköping University
 # leave empty if you don't have apersonal website
 personal-site: 
